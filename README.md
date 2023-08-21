@@ -1,3 +1,5 @@
+https://layer3.xyz/quests/an-introduction-to-zora
+Zora 50EXP can skip all on-chain
 
 https://layer3.xyz/journeys/transact-on-zksync
 Daily zkSync tx
